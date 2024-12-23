@@ -40,3 +40,7 @@ I create **web applications** that solve real-world problems and am always eager
 
 ## 🚀 **Fun Fact**  
 When I'm not coding, I love learning new things, solving puzzles, and helping others understand tech. I believe in **collaborating over competing**, and open-source is my playground! Let's build something amazing together. 🤝
+
+---
+
+🎯 **Interested in collaborating or discussing exciting projects? Feel free to reach out!**
