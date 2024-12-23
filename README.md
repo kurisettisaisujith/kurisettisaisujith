@@ -14,10 +14,10 @@ I create **web applications** that solve real-world problems and am always eager
 ### 🔧 **Tech Stack I Love**
 
 - **Languages**: C, Java, HTML, CSS, JavaScript  
-- **Frameworks**: ReactJS, Node.js, Express  
+- **Frameworks**: ReactJS
 - **Databases**: MySQL, MongoDB  
 - **Version Control**: Git, GitHub  
-- **Tools**: VS Code, Postman, GitHub Actions, Figma
+- **Tools**: VS Code,GitHub Actions
 
 ---
 
